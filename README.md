@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HADESINTHEHOUSE
 - 🌱 I’m currently learning Node and React
 - 💞️ I’m looking to collaborate on any project 
-- 📫 How to reach me munishchauhan98@gmail.com
+- 📫 How to reach me ...
 
 <!---
 HADESINTHEHOUSE/HADESINTHEHOUSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
