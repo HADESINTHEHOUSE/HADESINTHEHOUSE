@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HADESINTHEHOUSE
+- 👋 Hi, I’m @Munish
 - 🌱 I’m currently learning Node and React
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me ...
